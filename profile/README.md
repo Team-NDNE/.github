@@ -1,4 +1,6 @@
 # NDNE
+![image](https://user-images.githubusercontent.com/100563973/197392414-9522b64c-de38-4648-b800-437985a30aeb.png)
+
 **Not a Developer Not an Engineer**
 
 ```markdown
@@ -38,12 +40,6 @@ DevOps를 지향하며 함께 성장을 추구합니다.
     - 코드 관리 : Github
     - 프로젝트 관리 : Jira
     - 커뮤니케이션 툴  / 미팅 - 디스코드
-
-## 📣기여 방법
-
-1. 해당 Repository을 `fork` 합니다.
-2. Feature Branch를 만들어서 `commit` & `push` 진행해 주세요.
-3. `Pull Request`를 보내주세요.
 
 ## 🔔업데이트 내역
 
