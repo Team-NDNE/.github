@@ -32,7 +32,7 @@ DevOps를 지향하며 함께 성장을 추구합니다.
   - Github Actions
 - Infra
   - AWS (EC2, IAM, AWS STS, ALB, ECR, Cloudtrail, EFS, S3...)
-  - Terraform, Nomad, Hashicorp Vault
+  - Hashicorp (Terraform, Nomad, Vault, Consul)
 
 ## 📌Ground Rule
 
